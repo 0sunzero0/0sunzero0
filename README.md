@@ -4,13 +4,13 @@ Hello, I’m SunZero ☀️😎
 
 About Me
 -----
-#### 🌱 I’m interested in Web Full Stack, Web Security, Edutech
-#### 👨‍🎓 School of Computer Science at Handong Global University
-#### 📫 sunzero0116@gmail.com
+- #### 🌱 I’m interested in Web Full Stack, Web Security, Edutech
+- #### 👨‍🎓 School of Computer Science at Handong Global University
+- #### 📫 sunzero0116@gmail.com
 
 Publications
 -----
-#### 📝 Riss. A Case of Study on the Design and Implementation of a Big Data Search Engine for North Korea and Unification Literature
+- #### 📝 Riss. A Case of Study on the Design and Implementation of a Big Data Search Engine for North Korea and Unification Literature
 
 Experience
 -----
