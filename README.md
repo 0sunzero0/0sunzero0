@@ -10,7 +10,7 @@ About Me
 #### 💌 sunzero0116@gmail.com
 
 
-Publications
+Publication
 -----
 #### 📝 Riss. A Case of Study on the Design and Implementation of a Big Data Search Engine for North Korea and Unification Literature
 
@@ -26,7 +26,7 @@ Experience
 - #### Jun. 2017 - Dec. 2020, Member of Computer Security Study Club, GHOST, HGU
 
 
-Hornor
+Honor
 -----
 - #### Jul. 2020, 🥈 2nd Prize, Capston Design Festival 2020 by HGU
 - #### Oct. 2019, ⭐️ 4th Prize, Big Data Visualization Competition 2019 by HGU
