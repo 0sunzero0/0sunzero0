@@ -10,7 +10,7 @@ About Me
 
 Publications
 -----
-- #### 📝 Riss. A Case of Study on the Design and Implementation of a Big Data Search Engine for North Korea and Unification Literature  (북한 및 통일 문헌 빅데이터 검색 엔진 설계 및 구현 사례 연구)
+#### 📝 Riss. A Case of Study on the Design and Implementation of a Big Data Search Engine for North Korea and Unification Literature  (북한 및 통일 문헌 빅데이터 검색 엔진 설계 및 구현 사례 연구)
 
 Experience
 -----
