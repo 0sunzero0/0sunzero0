@@ -6,7 +6,7 @@ Hello, I’m Hyeyoung Kim 😎
 About Me
 -----
 #### 🌱 I’m interested in Web Full Stack, Web Security, Natural Language Processing, Edutech
-#### 🎓 School of Computer Science at Handong Global University (Mar. 2015 - Dec. 2020)
+#### 🎓 Mar. 2015 - Dec. 2020, School of Computer Science at Handong Global University
 #### 💌 sunzero0116@gmail.com
 
 
