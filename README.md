@@ -23,8 +23,8 @@ Experience
 Hornor
 -----
 - #### Jul.2020, 2nd Prize, Capston Design Festival 2020 by HGU
-- #### Oct.2019 빅데이터 시각화 경진대회 2019 by HGU
-- #### Mar.2018 - Feb.2020 SW중심대학 장학생 선정
+- #### Oct.2019, 4th Prize, 빅데이터 시각화 경진대회 2019 by HGU
+- #### Mar.2018 - Feb.2020, SW중심대학 장학생 선정National Scholarship for Science & Engineering, from Korea Student Aid Foundation (KOSAF).
 
 <!---
 0sunzero0/0sunzero0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
