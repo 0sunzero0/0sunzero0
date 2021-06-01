@@ -5,7 +5,7 @@ Hello, I’m SunZero ☀️😎
 
 About Me
 -----
-#### 🌱 I’m interested in Web Full Stack, Web Security, Edutech
+#### 🌱 I’m interested in Web Full Stack, Web Security, Natural Language Processing, Edutech
 #### 🎓 School of Computer Science at Handong Global University
 #### 💌 sunzero0116@gmail.com
 
