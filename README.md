@@ -10,7 +10,7 @@ About Me
 
 Publications
 -----
-#### 📝 Riss. A Case of Study on the Design and Implementation of a Big Data Search Engine for North Korea and Unification Literature
+#### 📝 Riss. A Case of Study on the Design and Implementation of a Big Data Search Engine for North Korea and Unification Literature (북한 및 통일 문헌 빅데이터 검색 엔진 설계 및 구현 사례 연구)
 
 Experience
 -----
@@ -23,8 +23,7 @@ Experience
 Hornor
 -----
 - #### Jul.2020, 2nd Prize, Capston Design Festival 2020 by HGU
-- #### Oct.2019, 4th Prize, 빅데이터 시각화 경진대회 2019 by HGU
-- #### Mar.2018 - Feb.2020, SW중심대학 장학생 선정National Scholarship for Science & Engineering, from Korea Student Aid Foundation (KOSAF).
+- #### Oct.2019, 4th Prize, Big Data Visualization Competition 2019 by HGU
 
 <!---
 0sunzero0/0sunzero0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
