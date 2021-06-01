@@ -3,6 +3,7 @@ Hello, I’m SunZero ☀️😎
 > _💎 Life is about making yourself_
 <br/>
 <br/>
+
 About Me
 -----
 #### 🌱 I’m interested in Web Full Stack, Web Security, Edutech
@@ -10,6 +11,7 @@ About Me
 #### 📫 sunzero0116@gmail.com
 <br/>
 <br/>
+
 Publications
 -----
 #### 📝 Riss. A Case of Study on the Design and Implementation of a Big Data Search Engine for North Korea and Unification Literature
@@ -17,6 +19,7 @@ Publications
 🔎 (북한 및 통일 문헌 빅데이터 검색 엔진 설계 및 구현 사례 연구)
 <br/>
 <br/>
+
 Experience
 -----
 - #### Jul. 2019 - Dec. 2020, Member of Handong Artificial Intelligence Lab, HAIL, HGU
