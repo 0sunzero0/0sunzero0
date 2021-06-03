@@ -20,9 +20,9 @@ Publication
 Experience
 -----
 - #### Jul. 2019 - Dec. 2020, Member of Handong Artificial Intelligence Lab, HAIL, HGU
+- #### Mar. 2018 - Jun. 2019, Member of Web and App Lab, WALAB, HGU
 - #### Jul. 2018 - Dec. 2018, Teaching Assistant, C Programming Practice, HGU
 - #### Jun. 2018 - Dec. 2018, Member of SW Education Volunteer Corps, HGU
-- #### Mar. 2018 - Jun. 2019, Member of Web and App Lab, WALAB, HGU
 - #### Jun. 2017 - Dec. 2020, Member of Computer Security Study Club, GHOST, HGU
 
 
