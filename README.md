@@ -5,7 +5,8 @@ Hello, I’m Hyeyoung Kim 😎
 
 About Me
 -----
-#### 🌱 I’m interested in Web Full Stack, Web Security, Natural Language Processing, Edutech
+#### 🌱 I’m interested in Web Full Stack, Web Security, Natural Language Processing, Edutech, Solving Social Issue with ICT
+#### ✏️ I'm studying NodeJS, Express
 #### 🎓 School of Computer Science at Handong Global University (2015 - 2020)
 #### 💌 sunzero0116@gmail.com
 
