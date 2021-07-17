@@ -5,7 +5,7 @@ Hello, I’m Hyeyoung Kim 😎
 
 About Me
 -----
-#### 🌱 I’m interested in Web Full Stack, Web Security, Natural Language Processing, Edutech, Solving Social Issue with ICT
+#### 🌱 I’m interested in Back-end Development, Web Security, Natural Language Processing, Edutech, Solving Social Issue with ICT
 #### 🎓 School of Computer Science at Handong Global University (2015 - 2020)
 #### 💌 sunzero0116@gmail.com
 
@@ -20,15 +20,17 @@ Publication
 Experience
 -----
 - #### Jul. 2019 - Dec. 2020, Member of Handong Artificial Intelligence Lab, HAIL, HGU
-- #### Jul. 2018 - Dec. 2018, Teaching Assistant, C Programming Practice, HGU
-- #### Jun. 2018 - Dec. 2018, Member of SW Education Volunteer Corps, HGU
 - #### Mar. 2018 - Jun. 2019, Member of Web and App Lab, WALAB, HGU
 - #### Jun. 2017 - Dec. 2020, Member of Computer Security Study Club, GHOST, HGU
+- #### Jun. 2020 - Jul. 2020, Teaching Assistant, Machine Learning Camp, HGU
+- #### Jul. 2018 - Dec. 2018, Teaching Assistant, C Programming Practice, HGU
+- #### Jun. 2018 - Dec. 2018, Member of SW Education Volunteer Corps, HGU
+
 
 
 Honor
 -----
-- #### Jul. 2020, 🥈 2nd Prize, Capston Design Festival 2020 by HGU
+- #### Jun. 2020, 🥈 2nd Prize, Capston Design Festival 2020 by HGU
 - #### Oct. 2019, ⭐️ 4th Prize, Big Data Visualization Competition 2019 by HGU
 
 
