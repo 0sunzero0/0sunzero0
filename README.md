@@ -1,24 +1,22 @@
-Hello, I’m Hyeyoung Kim 😎
-=====
+# Hello, I’m Hyeyoung Kim 😎
 > _💎 Life is about making yourself_
 
 
-About Me
------
-#### 🌱 I’m interested in Back-end Development, Web Security, Natural Language Processing, Edutech, Solving Social Issue with ICT
-#### 🎓 School of Computer Science at Handong Global University (2015 - 2020)
-#### 💌 sunzero0116@gmail.com
+# About Me
+### 🌱 I’m interested in 
+- Back-end / Server Development
+- Web Security
+- Natural Language Processing
+- Edutech, Solving Social Issue with ICT
+### 🎓 School of Computer Science at Handong Global University (2015 - 2020)
+### 💌 sunzero0116@gmail.com
 
-
-Publication
------
+# Publication
 #### 📝 [Riss. A Case of Study on the Design and Implementation of a Big Data Search Engine for North Korea and Unification Literature](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=e1b14f91e048485f7ecd42904f0c5d65)
 
 🔎 (북한 및 통일 문헌 빅데이터 검색 엔진 설계 및 구현 사례 연구)
 
-
-Experience
------
+# Experience
 - #### Jul. 2019 - Dec. 2020, Member of Handong Artificial Intelligence Lab, HAIL, HGU
 - #### Mar. 2018 - Jun. 2019, Member of Web and App Lab, WALAB, HGU
 - #### Jun. 2017 - Dec. 2020, Member of Computer Security Study Club, GHOST, HGU
@@ -26,10 +24,7 @@ Experience
 - #### Jul. 2018 - Dec. 2018, Teaching Assistant, C Programming Practice, HGU
 - #### Jun. 2018 - Dec. 2018, Member of SW Education Volunteer Corps, HGU
 
-
-
-Honor
------
+# Honor
 - #### Jun. 2020, 🥈 2nd Prize, Capston Design Festival 2020 by HGU
 - #### Oct. 2019, ⭐️ 4th Prize, Big Data Visualization Competition 2019 by HGU
 
