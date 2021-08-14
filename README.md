@@ -4,7 +4,7 @@
 
 # About Me
 ### 🌱 I’m interested in 
-- Back-end / Server Development
+- Server / Back-end Development
 - Web Security
 - Natural Language Processing
 - Edutech, Solving Social Issue with ICT
