@@ -5,7 +5,6 @@
 # About Me
 ### 🌱 I’m interested in 
 - Server / Back-end Development
-- Web Security
 - Natural Language Processing
 - Edutech, Solving Social Issue with ICT
 ### 🎓 School of Computer Science at Handong Global University (2015 - 2020)
