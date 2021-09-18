@@ -8,7 +8,7 @@
 - Natural Language Processing
 - Edutech, Solving Social Issue with ICT
 ### ✏️ I'm studying
-- Flask, AWS
+- Spring, AWS
 - HTTP, Load Balancer
 - Cloud (Kernel, Docker, Kubernetes)
 ### 🎓 School of Computer Science at Handong Global University (2015 - 2020)
