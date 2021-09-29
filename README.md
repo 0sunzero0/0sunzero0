@@ -8,9 +8,9 @@
 - Natural Language Processing
 - Edutech, Solving Social Issue with ICT
 ### ✏️ I'm studying
-- Spring, AWS
+- collaboration by doing POC project
 - HTTP, Load Balancer
-- Cloud (Kernel, Docker, Kubernetes)
+- Cloud (AWS, Kernel, Docker, Kubernetes)
 ### 🎓 School of Computer Science at Handong Global University (2015 - 2020)
 ### 💌 sunzero0116@gmail.com
 ### 📝 Publication
