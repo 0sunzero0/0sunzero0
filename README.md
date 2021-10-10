@@ -1,5 +1,5 @@
 # Hello, I’m Hyeyoung Kim 😎
-> _💎 Life is about making yourself_
+> _💎 &nbsp;Life is all about making yourself_
 
 
 # About Me
