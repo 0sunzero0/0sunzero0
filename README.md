@@ -9,8 +9,8 @@
 - Edutech, Solving Social Issue with ICT
 ### ✏️ I'm studying
 - collaboration by doing POC project
-- HTTP, Load Balancer
-- Cloud (AWS, Kernel, Docker, Kubernetes)
+- HTTP, Kernel
+- Cloud (AWS, Docker, Kubernetes)
 
 <!---
 0sunzero0/0sunzero0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
