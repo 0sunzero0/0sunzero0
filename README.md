@@ -6,7 +6,7 @@
 ### 🌱 I’m interested in 
 - Server / Back-end Development
 - Natural Language Processing
-- Edutech, Solving Social Issue with ICT
+- Solving Social Issue with ICT
 ### ✏️ I'm studying
 - collaboration by doing POC project
 - HTTP, Kernel
