@@ -1,6 +1,8 @@
 # Hello, I’m Hyeyoung Kim 😎
 > _💎 &nbsp;Life is all about making yourself_
 
+> _💛 &nbsp;Study for others_
+
 
 # About Me
 ### 🌱 I’m interested in 
@@ -10,6 +12,7 @@
 - collaboration by doing POC project
 - HTTP
 - Cloud (AWS, Docker)
+
 
 <!---
 0sunzero0/0sunzero0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
