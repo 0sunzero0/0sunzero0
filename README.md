@@ -6,8 +6,9 @@
 
 # About Me
 ### 🌱 I’m interested in 
-- Server / Back-end Development
 - Solving Social Issue with ICT
+- Server / Back-end Development
+- Natural Language Processing
 ### ✏️ I'm studying
 - collaboration by doing POC project
 - HTTP
