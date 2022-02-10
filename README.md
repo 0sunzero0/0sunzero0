@@ -1,18 +1,23 @@
-# Hello, I’m Hyeyoung Kim 😎
-> _💎 &nbsp;Life is all about making yourself_
-
+### Hello 👋 I’m Hyeyoung Kim
+> _💎 &nbsp;Life is all about making yourself_  
+      
 > _💛 &nbsp;Study for others_
 
+### 🎓 About Me
+- BS, School of Computer Science at Handong Global University 
 
-# About Me
 ### 🌱 I’m interested in 
 - Solving Social Issue with ICT
-- Server / Back-end Development
-- Natural Language Processing
+- Server Development and Natural Language Processing
+
 ### ✏️ I'm studying
-- collaboration by doing POC project
-- HTTP
-- Cloud (AWS, Docker)
+  - OOP, Collaboration by doing POC project
+  - Cloud (AWS, Docker)
+
+<br>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0sunzero0&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>&nbsp;
+
+
 
 
 <!---
