@@ -3,9 +3,6 @@
       
 > _💛 &nbsp;Study for others_
 
-### 🎓 About Me
-- BS, School of Computer Science at Handong Global University 
-
 ### 🌱 I’m interested in 
 - Solving Social Issue with ICT
 - Server Development and Natural Language Processing
