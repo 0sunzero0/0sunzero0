@@ -8,11 +8,12 @@
 - Server Development and Natural Language Processing
 
 ### ✏️ I'm studying
-  - OOP, Collaboration by doing POC project
-  - Cloud (AWS, Docker)
+  - Cloud (AWS Service, Docker)
+  - OOP, Spring Framework
+  
 
 <br>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyeyoungs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>&nbsp;
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyeyoungs&show_icons=true&theme=buefy&count_private=true"/>&nbsp;
 
 
 
