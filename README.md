@@ -1,4 +1,4 @@
-### Hello 👋 I’m Hyeyoung Kim
+### Hi 👋🏻 I’m Hyeyoung Kim
 > _💎 &nbsp;Life is all about making yourself_  
       
 > _💛 &nbsp;Study for others_
@@ -8,8 +8,8 @@
 - Server Development and Natural Language Processing
 
 ### ✏️ I'm studying
-  - Cloud (AWS Service, Docker)
   - OOP, Spring Framework
+  - Cloud (AWS Service, Docker)
   
 
 <br>
