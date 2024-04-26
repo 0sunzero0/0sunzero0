@@ -3,16 +3,10 @@
       
 > _💛 &nbsp;Study for others_
 
-### 🌱 I’m interested in 
-- Solving Social Issue with ICT
-- Server Development and Natural Language Processing
+### 🚀 Contact
+- 📮 Email : sunzero0116@gmail.com
 
-### ✏️ I'm studying
-  - OOP, Spring Framework
-  - Cloud (AWS Service, Docker)
-  
-
-<br>
+### :octocat: My Github Stats
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyeyoungs&show_icons=true&theme=buefy&count_private=true"/>&nbsp;
 
 
